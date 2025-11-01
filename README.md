@@ -1,16 +1,9 @@
-# elearning
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+Nama: Mochammad Raffi Fadhillah
+NPM: 23552011066
+Kelas: TIF RP 23 CID B
+```
+# Themed App | Pemograman Mobile 2
+## Tampilan aplikasi
+![WhatsApp Image 2025-11-01 at 23 19 54_da1b1448](https://github.com/user-attachments/assets/9a284b25-5884-4088-89d5-7eeb89ad6f21)
+|:-------------------------------:|
